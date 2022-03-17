@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Back to Mcdonlds",
+  "SYMBOL": "MCC",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
